@@ -1,0 +1,33 @@
+{
+  "schematics": {
+    "totem_farm": {
+      "name": "Тотемная ферма v3.0",
+      "description": "Максимальная эффективность!",
+      "version": "3.0",
+      "file": "schematics/totem_farm.schem",
+      "size": "15x15x10"
+    },
+    "obsidian_bunker": {
+      "name": "Обсидиановый бункер", 
+      "description": "Защита от гриферов",
+      "version": "2.1",
+      "file": "schematics/obsidian_bunker.schem",
+      "size": "9x9x5"
+    },
+    "sky_base": {
+      "name": "Небесная база",
+      "description": "Стеклянная база в небе",
+      "version": "1.5", 
+      "file": "schematics/sky_base.schem",
+      "size": "15x15x3"
+    },
+    "pvp_arena": {
+      "name": "ПВП Арена",
+      "description": "Арена для сражений",
+      "version": "2.0",
+      "file": "schematics/pvp_arena.schem", 
+      "size": "25x25x5"
+    }
+  },
+  "last_updated": "30.11.2025"
+}
